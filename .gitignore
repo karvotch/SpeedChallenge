@@ -1,3 +1,6 @@
 CounterfactualRegressionMinimization
+train/photos
+test/photos
+*.jpg
 *.mp4
 *.m4v
