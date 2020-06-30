@@ -1,6 +1,0 @@
-
-total 13
-drwxrwxrwx 1 bob wheel  528 Jun 29 10:33 .
-drwxrwxrwx 1 bob wheel 4096 Jun 24 13:49 ..
-drwxrwxrwx 1 bob wheel 4096 Jun 26 20:07 model=keras-batch_size=2-num_epoch=20-steps_per_epoch=400
-drwxrwxrwx 1 bob wheel 4096 Jun 28 22:45 model=keras_C40P_C20P_D25_De128_D30_De64_De15_De1-batch_size=20-num_epoch=20-steps_per_epoch=400
