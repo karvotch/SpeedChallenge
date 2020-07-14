@@ -1,0 +1,2 @@
+Fourth attempt:
+Using the same double speed technique with more epoch did not seem to help.

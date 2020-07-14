@@ -1,0 +1,2 @@
+First attempt:
+It has some weird moments where speed is way too high or too low for the frame.

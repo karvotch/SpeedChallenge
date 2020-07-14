@@ -1,0 +1,6 @@
+Third attempt:
+This attempt creates additional data by processing opt flow over three frames instead of two.
+The middle frame is skipped, however, its speed is added to the current frames speed to create a realistic label.
+Also, the opt_flow function was limiting the features of the opt flow by normalizing each frame to (0,255).
+This didn't allow the CNN to see the magnitude of any motion, only what motion was strongest during the frame.
+This was replaced with magnitude being divided by 100.

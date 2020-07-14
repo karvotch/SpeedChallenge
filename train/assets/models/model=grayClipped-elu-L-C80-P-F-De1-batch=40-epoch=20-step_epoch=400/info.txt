@@ -1,0 +1,3 @@
+First attempt:
+I thought a model that used a more linear prediction would do better.
+The model does fine and might be useful

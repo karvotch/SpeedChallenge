@@ -1,0 +1,2 @@
+First attempt:
+The large amount of features is unnecessary and even damages the accuracy.
