@@ -1,0 +1,2 @@
+Fourth attempt:
+Using 1e-8 for regularization instead of 1e-7

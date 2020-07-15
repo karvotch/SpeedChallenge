@@ -1,0 +1,2 @@
+Second attempt:
+Using double speed process with regularizer seems to give the best prediction.
