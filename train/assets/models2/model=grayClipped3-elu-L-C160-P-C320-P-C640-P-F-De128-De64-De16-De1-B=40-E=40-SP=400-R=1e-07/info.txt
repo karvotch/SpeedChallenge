@@ -1,0 +1,2 @@
+3rd attempt:
+I added reg on the conv2D layers.

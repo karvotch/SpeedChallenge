@@ -1,0 +1,2 @@
+2nd attempt:
+I included a horizontal flip to the image preprocessing.
